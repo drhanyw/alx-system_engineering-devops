@@ -1,0 +1,4 @@
+[master 52c1a36] Hello, World
+ 4 files changed, 5 insertions(+), 1 deletion(-)
+ create mode 100644 0x02-shell_redirections/0-hello_world
+ create mode 100644 0x02-shell_redirections/README.md
