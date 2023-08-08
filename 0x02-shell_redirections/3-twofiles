@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etcl{passwd,hosts}
+cat /etc/{passwd,hosts}
